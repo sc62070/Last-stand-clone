@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerHealth
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Road
+    uniqueID: 1295638733
+    locked: 0
+  - name: Wall
+    uniqueID: 1173932985
+    locked: 0
+  - name: Move
+    uniqueID: 3387790947
+    locked: 0
+  - name: Player
+    uniqueID: 3573540671
+    locked: 0
+  - name: FX
+    uniqueID: 1193958785
+    locked: 0
+  - name: UI
+    uniqueID: 1987919473
     locked: 0
